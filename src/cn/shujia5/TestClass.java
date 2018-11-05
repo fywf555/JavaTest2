@@ -4,5 +4,6 @@ public class TestClass {
     public void test()
     {
         int c = 456;
+        int f = 789;
     }
 }
